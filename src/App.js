@@ -78,7 +78,7 @@ function Data()
       }
       return todo
     })
-    settodo(updatedTodos.todo)
+    setdata(updatedTodos)
   };
     return(
       <div>
